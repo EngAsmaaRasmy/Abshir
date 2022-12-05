@@ -1,0 +1,57 @@
+*{
+    font-family: 'Noto Kufi Arabic', sans-serif ;
+}
+ h1,h2,h3,h4,h5,h6{
+    font-family:'Noto Kufi Arabic', sans-serif;
+}
+
+
+.form-card{
+    font-family:'Noto Kufi Arabic', sans-serif;
+
+
+}
+
+
+#prod-tb th{
+    border-top: hidden;
+
+
+}
+
+.centerItem{
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+
+
+
+ .category-image{
+     width: 40px;
+     height: 40px;
+     object-fit: contain;
+     border-radius: 50%;
+ }
+
+
+ #order-details{
+     margin: 3em 0;
+ }
+
+ #order-details h6{
+     margin-top: 1em;
+ }
+
+ #details-keys h6{
+     color: #F96F4B;
+ }
+
+
+  #order_actions button, #order_actions a{
+     width: 15%;
+      margin-right: 10px;
+
+ }
+
